@@ -4,13 +4,15 @@ cyberpunk.net
 thewitcher.com
 cdpred.services
 
-# VPN / networking
+# Netbird
+login.netbird.io
 app.netbird.io
 api.netbird.io
 signal.netbird.io
 turn.netbird.io
 relay.netbird.io
 
+# Tailscale
 tailscale.com
 
 # Proxmox / Linux
