@@ -9,7 +9,7 @@ cdpred.services
 netbird.io
 
 # Authentication / Identity providers
-auth0.com # Auth0 authentication platform (NetBird and other services)
+# auth0.com # Auth0 authentication platform (NetBird and other services)
 
 # Tailscale
 tailscale.com
