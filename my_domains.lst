@@ -8,7 +8,8 @@ cdpred.services
 # Чтобы работало корректно, нужно создать секцию bypass с доменом stun.netbird.io
 netbird.io
 
-
+# Authentication / Identity providers
+auth0.com # Auth0 authentication platform (NetBird and other services)
 
 # Tailscale
 tailscale.com
