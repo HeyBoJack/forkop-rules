@@ -5,12 +5,10 @@ thewitcher.com
 cdpred.services
 
 # Netbird
-login.netbird.io
-app.netbird.io
-api.netbird.io
-signal.netbird.io
-turn.netbird.io
-relay.netbird.io
+# Чтобы работало корректно, нужно создать секцию bypass с доменом stun.netbird.io
+netbird.io
+
+
 
 # Tailscale
 tailscale.com
