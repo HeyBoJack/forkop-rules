@@ -27,15 +27,15 @@ ifixit.com
 # Gamepad
 ds4-windows.com
 
-# Windows / compatibility
-codeweavers.com
+# Windows soft
+mobatek.net
 
 # Browsers
 helium.computer
 zen-browser.app
 mozilla.org
 
-# Soft
+# MacOS Soft
 brew.sh
 etcher.balena.io
 booktrack.app
@@ -45,6 +45,7 @@ scummvm.org
 linearmouse.app
 mediahuman.com
 hexasoftware.dev
+codeweavers.com
 
 # Steam / SteamOS
 decky.xyz
